@@ -1,0 +1,7 @@
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\bin\Debug\Random_ASCIIART_pattern.exe.config
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\bin\Debug\Random_ASCIIART_pattern.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\bin\Debug\Random_ASCIIART_pattern.pdb
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\obj\Debug\Random_ASCIIART_pattern.csprojAssemblyReference.cache
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\obj\Debug\Random_ASCIIART_pattern.csproj.CoreCompileInputs.cache
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\obj\Debug\Random_ASCIIART_pattern.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_13a\Random_ASCIIART_pattern\Random_ASCIIART_pattern\obj\Debug\Random_ASCIIART_pattern.pdb
